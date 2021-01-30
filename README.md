@@ -1,6 +1,6 @@
 # android10-game
 **A Processing version of the android 10 game Picross.**
-You can play the game as well as edit the solution. I hope you enjoy it :) !
+You can play the game as well as edit its solution. I hope you enjoy it :) !
 
 ##### Example game
 ![Example game](https://raw.githubusercontent.com/pranavgade20/android10-game/master/screens/10x10_play.png)
